@@ -30,12 +30,7 @@ public:
 };
 class Derived:public Teacher{
     public:
-    void 
-        if(sem==1 && sec == 'A')
-        {
-
-        }
-        else if(sem==1 && Sec=='B')
+        
 };
 class Student
 {
